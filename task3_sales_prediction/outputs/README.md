@@ -1,0 +1,1 @@
+After running `sales_prediction.py`, this folder will contain `correlation_heatmap.png`, `spend_vs_sales.png`, `sales_predictions.csv`, and `actual_vs_predicted.png`. These are generated locally and are not committed by default.
