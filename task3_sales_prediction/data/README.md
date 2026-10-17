@@ -1,0 +1,1 @@
+Place the Advertising CSV in this folder as `advertising.csv`. Expected columns are TV, Radio, Newspaper, and Sales (case-insensitive). The script tries to download the public dataset first, and uses this file if it exists.
