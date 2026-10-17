@@ -1,0 +1,1 @@
+After running `car_price_prediction.py`, this folder will contain `actual_vs_predicted.csv`, `actual_vs_predicted.png`, and `prediction_errors.png`. These are generated locally and are not committed by default.
