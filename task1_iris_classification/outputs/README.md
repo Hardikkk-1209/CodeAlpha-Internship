@@ -1,0 +1,1 @@
+Run `python task1_iris_classification/iris_classification.py` from the repository root to generate `confusion_matrix.png` and `petal_measurements.png` in this folder.
